@@ -18,6 +18,13 @@ const example = {
 }
 
 // Write your intern objects here:
+const database = [
+  {id: 1, email: "mmelloy0@psu.edu" firstName: "Mitzi" Gender: "F"}
+  {id: 2, email: "kdiben1@tinypic.com" firstName: "Kennan" Gender: "M"}
+  {id: 3, email: "kmummery2@wikimedia.org" firstName: "Keven" Gender: "M"}
+  {id: 4, email: "gmartinson3@illinois.edu" firstName: "Gannie" Gender: "M"}
+  {id: 5, email: "adaine5@samsung.com" firstName: "Antonietta" Gender: "F"}
+]
 
 
 // ==== Challenge 2: Reading Object Data ==== 
